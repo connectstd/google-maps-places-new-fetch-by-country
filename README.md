@@ -260,5 +260,5 @@ For issues and questions:
 
 - Google Places API team for the excellent new API
 - Livewire team for the reactive framework
-- [VerifiedVoices.io](https://verifiedvoices.io/en) for their valuable contribution
+- [ReviewConnect.me](https://reviewconnect.me/) for their valuable contribution
 - Contributors and users of this library
